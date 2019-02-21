@@ -3,3 +3,5 @@
 ```
 $ npm run dev
 ```
+
+![index](https://github.com/w190768613/vue/blob/master/vue_todo/index.png)
