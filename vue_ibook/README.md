@@ -14,7 +14,8 @@ txt、pdf、epub(Electronic Publication，一种电子出版物)、mobi(Amazon K
 epub格式的电子书 ==> Book(通过epub.js实例化了一个Book对象)  
 Book ==> Rendition(通过renderTo方法生成一个Rendition对象负责电子书的渲染)  
 Book ==> Theme(负责电子书的样式和主题)  
-Book ==> Location(负责电子书位置定位) Book ==> Navigation(负责电子书的目录以及定位)
+Book ==> Location(负责电子书位置定位)  
+Book ==> Navigation(负责电子书的目录以及定位)
 
 ![epubjs的核心工作原理](https://github.com/CruxF/IMOOC/raw/master/ProImages/vueEbook_epub.jpg?1535437561437)
 
