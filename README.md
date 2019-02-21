@@ -8,6 +8,9 @@ codes about vue
 $ npm run dev
 ```
 
+![index](https://github.com/w190768613/vue/blob/master/vue_ibook/index.png)
+
+
 #### 1) 电子书格式 
 txt、pdf、epub(Electronic Publication，一种电子出版物)、mobi(Amazon Kindle的电子书格式)...
 
@@ -57,8 +60,13 @@ rules: {
 ## 2.vue_shopcart 基于vue的购物车案例
 需要使用编译器自带的web服务器启动项目
 
+![index](https://github.com/w190768613/vue/blob/master/vue_shopcart/index.png)
+
+
 ## 3.vue_todo vue+Webpack打造todo应用
 通过命令行启动项目，端口 localhost:8000 
 ```
 $ npm run dev
 ```
+
+![index](https://github.com/w190768613/vue/blob/master/vue_todo/index.png)
