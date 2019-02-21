@@ -4,6 +4,9 @@
 $ npm run dev
 ```
 
+![index](https://github.com/w190768613/vue/blob/master/vue_ibook/index.png)
+
+
 #### 1) 电子书格式 
 txt、pdf、epub(Electronic Publication，一种电子出版物)、mobi(Amazon Kindle的电子书格式)...
 
